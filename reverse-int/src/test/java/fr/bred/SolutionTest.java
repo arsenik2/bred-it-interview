@@ -27,6 +27,6 @@ public class SolutionTest
 
     @Test
     public void test_solution_5() {
-        assertEquals(120, new Solution().solve(21));
+        assertEquals(21, new Solution().solve(120));
     }
 }
