@@ -1,4 +1,4 @@
-#Palindrome Number
+# Palindrome Number
 Determine if the given integer is a palindrome. (The integer reads the same forward and backward)
 #### Example
 <pre>
