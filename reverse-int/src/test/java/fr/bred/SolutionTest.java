@@ -24,4 +24,9 @@ public class SolutionTest
     public void test_solution_4() {
         assertEquals(-4, new Solution().solve(-4));
     }
+
+    @Test
+    public void test_solution_5() {
+        assertEquals(120, new Solution().solve(21));
+    }
 }
